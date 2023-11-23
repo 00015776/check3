@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.Back {
+  
+    background-color: rgba(219, 231, 240, 0.7);
+    color: brown;
+    font-size: 30px;
+    margin-bottom: 5%;
+}
+.number7 {
+    margin-left: 7%;
+}
+.img8 {
+    margin-left: 19%;
+}
+.number8 {
+    margin-left: 40%;
+    margin-top: -2%;
+}
+.img9 {
+    margin-left: 10%;
+}
+.number9 {
+    margin-left: 74%;
+    margin-top: -2%;
+}
+.img10 {
+    margin-top: 2%;
+}
+.number10 {
+    display: table;
+    width: 300px;
+    margin-left: 3%;
+}
+.img11 {
+    margin-left: 21%;
+    margin-top: 4%;
+}
+.number11 {
+    display: table;
+    width: 300px;
+    margin-left: 40%;
+    margin-top: -4%;
+}
+.img12 {
+    margin-left: 14%;
+}
+.number12 {
+    
+    margin-left: 74%;
+    margin-top: -3%;
+}
+.Page5 {
+    background-color: rgba(219, 231, 240, 0.7);
+    color: brown;
+    font-size: 30px;
+    margin-bottom: 5%;
+    margin-left: 93%;
+}
+.hr2 {
+    margin-top: 2%;
+}

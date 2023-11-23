@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.number {
+    margin-left: 7%;
+    
+}
+.undernum {
+    margin-left: 4%;
+}
+.img1 {
+    margin-left: 2%;
+}
+.img2 {
+    margin-left: 25%;
+    margin-top: 2%;
+}
+.number2 {
+    margin-left: 43%;
+    margin-top: -1%;
+    
+    
+}
+.undernum2 {
+    margin-left: 44%;
+}
+.img3 {
+    margin-left: 20%;
+}
+.number3 {
+    margin-left: 80%;
+    margin-top: -2%;
+}
+.undernum3 {
+    margin-left: 83%;
+    margin-top: -2%;
+}
+.img4 {
+    margin-top: 10%;
+}
+.number4 {
+    margin-left: 7%;
+}
+.undernum4 {
+    margin-left: 5%;
+
+}
+.img5 {
+    margin-left: 25%;
+    margin-top: 2%;
+}
+.number5 {
+    margin-left: 43%;
+    margin-top: -1%;
+    
+    
+}
+.undernum5 {
+    margin-left: 44%;
+}
+.img6 {
+    margin-left: 20%;
+}
+.number6 {
+    margin-left: 85%;
+    margin-top: -2%;
+}
+.undernum6 {
+    margin-left: 83%;
+    margin-top: -2%;
+}
+.Back {
+  
+    background-color: rgba(219, 231, 240, 0.7);
+    color: brown;
+    font-size: 30px;
+    margin-bottom: 5%;
+}
+.Page4 {
+    background-color: rgba(219, 231, 240, 0.7);
+    color: brown;
+    font-size: 30px;
+    margin-bottom: 5%;
+    margin-left: 93%;
+}
